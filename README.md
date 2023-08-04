@@ -1,7 +1,6 @@
 <div align="center">
 
-# Editor.io
-## https://editor.soumya-jit.tech/
+
 
 </div>
 
